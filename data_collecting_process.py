@@ -115,7 +115,7 @@ def create_database_and_table(db_name):
 
 def main():
     db_name = "pi_database_tier2.db"
-    num_digits = 100000
+    num_digits = 1000000 
     segment_size = 1000
 
     try:
